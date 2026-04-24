@@ -37,9 +37,9 @@ I'm excited about using cybersecurity skills to investigate and analyse digital 
 
 | Project | Description | Stack |
 |---|---|---|
-| [REDTEECON](https://github.com/yourusername/redteecon) | 4-hour red teaming workshop covering wireless hacking (WPA/WPA2/WPA2-Enterprise) for Diploma students — lab guides, slides, prize challenge | Kali Linux · Bash · Aircrack-ng |
+| [REDTEECON](https://github.com/ayeitsjonny/Wireless-Hacking) | 4-hour red teaming workshop covering wireless hacking (WPA/WPA2/WPA2-Enterprise) for Diploma students — lab guides, slides, prize challenge | Kali Linux · Bash · Aircrack-ng |
 | [Ethical Hacking Report](https://github.com/yourusername) | Full network & web pentest for a simulated client — vulnerability assessment, remediation report, NGFW recommendations | Nmap · Burp Suite · Kali |
-| [Mobile Device Forensics](https://github.com/yourusername) | Forensic investigation on mobile devices — evidence acquisition, analysis, court-ready reporting | Forensic Tools · Python |
+| [Mobile Device Forensics](https://docs.google.com/document/d/1-Pmf4vV25jnG1G_6OjqI_CT5Goo4W99pHa4b0xi46Dg/edit?usp=sharing) | Forensic investigation on mobile devices — evidence acquisition, analysis, court-ready reporting | Forensic Tools · Python |
 | [Malware Analysis](https://github.com/yourusername) | Sandbox analysis of malware samples — behaviour mapping, IOC identification, threat intelligence reports | Python · Sandbox Tools |
 
 ---
