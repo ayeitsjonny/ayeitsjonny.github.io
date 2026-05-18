@@ -8,8 +8,7 @@
 │  $ cat current_status.txt                                   │
 │  > Diploma in Cybersecurity & Digital Forensics (TP)        │
 │  > Incoming SIT Information Security Undergrad (Sep 2026)   │
-│  > ORD'd · Ex-VSAT Specialist 3SG, Ministry of Defence SG   │
-│  > Open to short-term contracts: May–Aug 2026               │
+│  > ORD'd · Ex-VSAT Specialist 3SG, Ministry of Defence SG   │               │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -73,7 +72,7 @@ Malware Analysis · Mobile Device Forensics · Final Year Project (REDTEECON) ·
 **🏢 Trend Micro (Singapore) — Cybersecurity Technical Intern · Technical Sales Team**
 > Created tailored security solutions for potential clients, generated technical reports and proposals, and addressed client cybersecurity concerns alongside the sales team.
 
-**🛡️ Ministry of Defence Singapore — VSAT Specialist (3SG)**
+**🛡️ Singapore Army — Signal Specialist (VSAT)**
 > Operated and maintained VSAT satellite communication systems for the SAF. Ensured mission-critical network uptime and performed equipment diagnostics in operational environments.
 
 **🎓 Temasek Polytechnic — Diploma in Cybersecurity & Digital Forensics**
