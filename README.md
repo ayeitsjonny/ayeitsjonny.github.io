@@ -92,8 +92,7 @@ Malware Analysis · Mobile Device Forensics · Final Year Project (REDTEECON) ·
 ## 🌱 Currently
 
 - 📚 Preparing for SIT Information Security degree (Sep 2026)
-- 🔍 Open to short-term contracts in tech, admin, or customer service (May–Aug 2026)
-- 🏋️ Powerlifting · Half Ironman training · Bouldering
+- 🏋️ Powerlifting
 - 🖥️ Sharpening CTF and cybersecurity skills
 
 ---
